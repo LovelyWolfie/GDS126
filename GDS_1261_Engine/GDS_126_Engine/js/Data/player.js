@@ -42,10 +42,11 @@ var playerData ={
 			cycle:true,
 			frames:
 			[
-				{width:89, height:128, startX:128, startY:0},
-				{width:89, height:128, startX:256, startY:0},
-				{width:89, height:128, startX:384, startY:0},
-				{width:89, height:128, startX:512, startY:0}
+				{width:89, height:128, startX:288, startY:0},
+				{width:89, height:128, startX:375, startY:0},
+				{width:89, height:128, startX:461, startY:0},
+				{width:89, height:128, startX:550, startY:0}
+				
 				
 			]
 		},
@@ -56,9 +57,9 @@ var playerData ={
 			cycle:false,
 			frames:
 			[
-				{width:89, height:128, startX:640, startY:0},
-				{width:89, height:128, startX:640, startY:0},
-				{width:89, height:128, startX:740, startY:0}
+				{width:89, height:128, startX:638, startY:7},
+				{width:89, height:128, startX:706, startY:0},
+				{width:89, height:128, startX:805, startY:0}
 				
 			]
 		},
@@ -69,11 +70,8 @@ var playerData ={
 			cycle:true,
 			frames:
 			[
-				{width:89, height:128, startX:868, startY:0},
-				{width:89, height:128, startX:868, startY:0},
-				{width:89, height:128, startX:868, startY:0},
-				{width:89, height:128, startX:868, startY:0},
-				{width:89, height:128, startX:896, startY:0}
+				
+				{width:89, height:128, startX:1167, startY:0}
 			]
 		},
 		//The attack animation 
@@ -84,9 +82,9 @@ var playerData ={
 			//width:300,
 			frames:
 			[
-				{width:89, height:128, startX:1024, startY:0},
-				{width:89, height:128, startX:1024, startY:0},
-				{width:89, height:128, startX:1152, startY:0}
+				{width:89, height:128, startX:1270, startY:4},
+				{width:89, height:128, startX:1358, startY:0},
+				{width:89, height:128, startX:1447, startY:0}
 				
 			]
 		}
